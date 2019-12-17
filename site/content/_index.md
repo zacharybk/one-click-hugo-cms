@@ -3,12 +3,13 @@ title: Thoughts & Lessons
 subtitle: ' '
 image: /img/zacharby_heroimage.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Meet Zach
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Zach is an Operations and Customer Experience leader with twelve years of
+    experience building international, customer-centric service organizations. A
+    leader whose teams deliver support as a product through in-depth
+    technical/account support, knowledge based content, social engagement, and
+    community strategies designed to empower the customer.
 intro:
   heading: What we offer
   text: >-
@@ -31,7 +32,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: About Zach
   text: >-
     Coffee is an amazing part of human culture but it has a dark side too – one
     of colonialism and mindless abuse of natural resources and human lives. We
